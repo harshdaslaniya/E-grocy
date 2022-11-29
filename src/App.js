@@ -3,7 +3,7 @@ import './App.css';
 import Login from './component/Login';
 import Dashboard from './component/Dashboard';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes
 } from "react-router-dom";
